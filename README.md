@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I'm a new software developer enrolled in Tech Elevator. I enjoy learning new things and love to help where I can and be part of a team! 
 <!--
 **hzhanghz/hzhanghz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+
